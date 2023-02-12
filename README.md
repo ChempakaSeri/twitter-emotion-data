@@ -9,5 +9,6 @@
 |4			|Happy		|
 |5          |Relax		|
 |6          |Sad		|
+|7          |Worry      |
 
 
